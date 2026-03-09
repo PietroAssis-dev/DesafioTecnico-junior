@@ -3,7 +3,7 @@
 Aplicação desenvolvida em Spring Boot para simular em qual tipo de juros a pessoa pode solicitar.
 
 
-# Técnologias utilizadas
+# Tecnologias utilizadas
 - Java 25
 - Spring Boot 4.0.3
 - Spring Data JPA

@@ -10,17 +10,17 @@ Aplicação desenvolvida em Spring Boot para simular em qual tipo de juros a pes
 - Maven
 
   ## Como Rodar
-  1. Clone o repositório:
+  Clone o repositório:
    ```bash
    git clone https://github.com/PietroAssis-dev/DesafioTecnico-junior
    ```
    
-  3. Compile e rode
+  Compile e rode
    ```bash
    mvn spring-boot:run
    ```
 
-   4. A aplicação estara disponivel em:
+  A aplicação estara disponivel em:
    ```bash
    http://localhost:8080
 
